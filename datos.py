@@ -35,7 +35,7 @@ GRAPH_EDGES = {
     "Terminal Terrestre": ["Museo Pumapungo", "Aeropuerto Mariscal La Mar", "Mall del Río"],
     "Mirador de Turi": ["Puente Roto", "Mall del Río"],
     
-    # 🆕 CONEXIONES NUEVAS
+    # No te pierdas. CONEXIONES NUEVAS
     "Universidad de Cuenca": ["Parque de la Madre", "Estadio Alejandro Serrano", "Catedral Nueva"],
     "Mall del Río": ["Mirador de Turi", "Terminal Terrestre", "El Vergel"],
     "Parque de la Madre": ["Universidad de Cuenca", "Catedral Nueva", "Estadio Alejandro Serrano"],
