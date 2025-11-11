@@ -1,5 +1,6 @@
-math
-streamlit 
+streamlit
 folium
-pandas
+streamlit-folium
 geopy
+pandas
+
