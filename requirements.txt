@@ -2,3 +2,4 @@ math
 streamlit 
 folium
 pandas
+geopy
